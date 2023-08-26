@@ -6,6 +6,7 @@ import { SidebarComponent } from './pages/sidebar/sidebar.component';
 import { RouterModule } from '@angular/router';
 import { ContactPageComponent } from './pages/contact-page/contact-page.component';
 import { SeachBoxComponent } from './components/seach-box/seach-box.component';
+import { LoadingSpinnerComponent } from './components/loading-spinner/loading-spinner.component';
 
 
 @NgModule({
@@ -18,7 +19,8 @@ import { SeachBoxComponent } from './components/seach-box/seach-box.component';
     AboutPageComponent,
     SidebarComponent,
     ContactPageComponent,
-    SeachBoxComponent
+    SeachBoxComponent,
+    LoadingSpinnerComponent
   ],
 
   exports:[
@@ -26,7 +28,8 @@ import { SeachBoxComponent } from './components/seach-box/seach-box.component';
     AboutPageComponent,
     SidebarComponent,
     ContactPageComponent,
-    SeachBoxComponent
+    SeachBoxComponent,
+    LoadingSpinnerComponent
   ]
 
 })

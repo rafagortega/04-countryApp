@@ -1,27 +1,43 @@
-# CountryApp
+# Angular Countries App
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.4.
+## Descripción
+Angular Countries App es una aplicación que te permite explorar información sobre países utilizando la API restcountries.com. Esta aplicación demuestra el uso de servicios, solicitudes HTTP, pipes y más. El repositorio sirve como una pieza en mi portafolio para demostrar mis habilidades y comprensión de los conceptos de Angular.
 
-## Development server
+Esta aplicación la he realizado en el marco del curso que estoy haciendo en Udemy de @Klerith sobre Angular
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+## Tecnologías Utilizadas
+- Angular
+- TypeScript
+- HTML
+- CSS
+- RxJS
+- HttpClientModule
 
-## Code scaffolding
+## Características Clave
+Búsqueda de países por su capital, nombre o región.
+Visualización de información detallada sobre países.
+Almacenamiento en caché eficiente de los resultados de búsqueda para mejorar el rendimiento.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Instalación
+Clona este repositorio: git clone https://github.com/tu-usuario/angular-countries-app.git
+Instala las dependencias: npm install
+Inicia el servidor de desarrollo: ng serve
 
-## Build
+## Uso
+Abre tu navegador y navega a http://localhost:4200/ para ver la aplicación en acción.
+Utiliza la búsqueda por capital, nombre o región para explorar información sobre países.
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+## Licencia
+Este proyecto está bajo la Licencia MIT.
 
-## Running unit tests
+## Enlaces Relevantes
+[Demo en vivo](URL del Enlace)
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+## Créditos
+Agradecimientos a @Klerith ya que este proyecto es un paso a paso de un proyecto mostrado y que yo he seguido a través de su curso en Udemy
 
-## Running end-to-end tests
+## Licencia
+La Licencia MIT es común para proyectos de código abierto.
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+## Contacto
+Si tienes preguntas o comentarios, no dudes en contactarme a través de mi correo electrónico: [info@rafagortega.com](mailto:info@rafagortega.com)

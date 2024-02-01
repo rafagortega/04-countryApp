@@ -38,6 +38,3 @@ Agradecimientos a @Klerith ya que este proyecto es un paso a paso de un proyecto
 
 ## Licencia
 La Licencia MIT es común para proyectos de código abierto.
-
-## Contacto
-Si tienes preguntas o comentarios, no dudes en contactarme a través de mi correo electrónico: [info@rafagortega.com](mailto:info@rafagortega.com)
